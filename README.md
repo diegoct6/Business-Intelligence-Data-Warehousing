@@ -7,7 +7,7 @@ When an incident happens, the IT company needs to correct failures as soon as po
 
 The business objective is to help the IT company reduce the completion time for incident resolution (Ticket Completion Time). The analytic method investigates into the repetitive incident categories, resolution steps, and task overload during the processes.
 
-## 1. Data Warehouse modeling
+## 1. Data Warehouse Modeling
 The goal here is to  present a design of a data warehouse/data mart for an IT Operations Log System. The main executed task were: 
 
 **A. Dataset analysis:**
