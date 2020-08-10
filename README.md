@@ -48,4 +48,24 @@ ETL Tool: Pentaho Data Integration (ktr format)
 
 ![Data Mapping Process](/2_Data_Integration_Design/Mapping1.jpg)
 
+## 3. Incident Management System Dashboard
 
+**Who will use the dashboard?**
+- IT Operations Manager: Responsible against the CIO for the Incident Management Platform and groups executing the job.
+**What is the decision-making objective of this dashboard?**
+Understand the performance of the IT Service Team on a time frame, being able to identify:
+- What are the main categories associated with the incidents?
+- Is the team complying with the standard SLA?
+- Is the team following the guides and standard processes to solve the inicidents?
+- Is the team validating the priority level, specially for critical incidents?
+- Are the incidents being assigned correctly?
+- How does the reassignment count affect the average time to close an incident?
+- What are the low performing groups? What is driving this situation?
+**What type of content will appear in the dashboard?**
+- Main Incident Management KPIs to optimize
+- Graphs comparing the composition of the KPIs.
+**What level of data aggregation will be required by the audience?**
+- Basic level of excel and graph interpretation.
+- Capacity to filter the evaluation time (Open date of the ticket)
+
+![IMS Dashboard](/3_IMS_Dashboard/IMS.png)
