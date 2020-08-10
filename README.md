@@ -25,4 +25,4 @@ Identify the entities based on the selected approach (fact tables, dimension tab
 - Database: MySQL
 - Database Modeling: MySQL Workbench
 
-![DW Star Schema](/1_Data_Warehouse_Modeling/DW_Schema.png)
+![DW Star Schema](/1_Data_Warehouse_Modeling/DW_Schema.jpg)
